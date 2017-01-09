@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+platforms
+hooks
+lib
+*.js
+!tests/**/*.js
+*.map
+.vscode
+npm-debug.log
+tmp
+
+*.sublime-project
+*.sublime-workspace
